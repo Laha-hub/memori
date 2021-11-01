@@ -1,0 +1,7 @@
+.vscode
+desktop.ini
+.DS_Store
+bootstrap/
+images/
+vendor/
+style.css
